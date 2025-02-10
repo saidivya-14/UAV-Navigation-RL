@@ -55,7 +55,7 @@ After training, a **reward plot** is generated showing how the UAV's performance
 ```
 
 ### Example Reward Plot:
-![Training Progress](https://via.placeholder.com/800x400?text=Training+Reward+Plot)  
+![Training Progress][(https://via.placeholder.com/800x400?text=Training+Reward+Plot](https://github.com/saidivya-14/UAV-Navigation-RL/blob/main/UAV_output.jpg))  
 *(Replace the placeholder with the actual generated plot)*
 
 ## 🔮 Future Enhancements
